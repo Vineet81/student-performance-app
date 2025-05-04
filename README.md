@@ -1,3 +1,4 @@
+DEMO Link:[Click here:](https://student-performance-app-kwappvkna3tbkhpeqvemypp.streamlit.app/)
 ## 📘 Student Performance Predictor App
 
 This Streamlit app predicts students' final grades (G3) based on demographic and academic data using a linear regression model trained on the UCI "student-mat.csv" dataset.
